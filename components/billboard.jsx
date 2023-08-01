@@ -12,7 +12,7 @@ const Billboard = () => {
               </p>
             </article>
             <div className="h-full relative flex">
-              <img src="/plant-pot.png" alt="plant" className="relative z-10 h-full"/>
+              <img src="/plant-pot.webp" alt="plant" className="relative z-10 h-full"/>
               <div className="h-[9rem] w-[18rem] bg-[#feb700] absolute z-0 bottom-0 left-0 right-0 mx-auto sm:ml-[4.3rem]" />
               <div className="h-[18rem] w-[18rem] bg-[#feb700] absolute z-0 bottom-0 left-0 right-0 mx-auto sm:ml-[4.3rem] rounded-[50%]" />
             </div>

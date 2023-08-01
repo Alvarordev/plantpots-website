@@ -1,5 +1,6 @@
 "use client"
 
+
 const ProductCard = ({ data }) => {
 
   return (
